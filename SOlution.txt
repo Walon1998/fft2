@@ -1,0 +1,3 @@
+2D convolution, FFT2 and Laplace filter
+        a)
+We need to extends both so that rows = rows(A)+rows(F)-1 and cols = cols(A)+cols(F)-1
